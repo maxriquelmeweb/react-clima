@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-clima/static/css/main.26648a51.chunk.css",
+    "main.js": "/react-clima/static/js/main.d30eebaf.chunk.js",
+    "main.js.map": "/react-clima/static/js/main.d30eebaf.chunk.js.map",
+    "runtime-main.js": "/react-clima/static/js/runtime-main.c6306280.js",
+    "runtime-main.js.map": "/react-clima/static/js/runtime-main.c6306280.js.map",
+    "static/js/2.9273cdbf.chunk.js": "/react-clima/static/js/2.9273cdbf.chunk.js",
+    "static/js/2.9273cdbf.chunk.js.map": "/react-clima/static/js/2.9273cdbf.chunk.js.map",
+    "static/js/3.7c2df7be.chunk.js": "/react-clima/static/js/3.7c2df7be.chunk.js",
+    "static/js/3.7c2df7be.chunk.js.map": "/react-clima/static/js/3.7c2df7be.chunk.js.map",
+    "index.html": "/react-clima/index.html",
+    "static/css/main.26648a51.chunk.css.map": "/react-clima/static/css/main.26648a51.chunk.css.map",
+    "static/js/2.9273cdbf.chunk.js.LICENSE.txt": "/react-clima/static/js/2.9273cdbf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6306280.js",
+    "static/js/2.9273cdbf.chunk.js",
+    "static/css/main.26648a51.chunk.css",
+    "static/js/main.d30eebaf.chunk.js"
+  ]
+}
